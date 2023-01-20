@@ -1,0 +1,10 @@
+tests links:
+
+http://127.0.0.1:8000/ to test the root endpoint
+http://127.0.0.1:8000/items/42 to test the /items/{item_id} endpoint
+http://127.0.0.1:8000/word_count/amazon_prime/thriller to test the /word_count/{platform}/{word} endpoint
+http://127.0.0.1:8000/score_count/amazon_prime/7/2022 to test the /score_count/{platform}/{score}/{year} endpoint
+http://127.0.0.1:8000/second_score/amazon_prime to test the /second_score/{platform} endpoint
+http://127.0.0.1:8000/longest_movie/amazon_prime/2022/long to test the /longest_movie/{platform}/{year}/{duration_type} endpoint
+http://127.0.0.1:8000/count_by_rating/R to test the /count_by_rating/{rating} endpoint
+Note that you will need to replace the IP and port number with your own values based on how you are running the application.

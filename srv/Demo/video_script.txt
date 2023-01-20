@@ -1,0 +1,30 @@
+Intro
+
+Hola ... mi nombre es Blas De Olano,  y en este video les quiero hablar sobre el proyecto que desarrollé para ayudar a los analistas de la empresa. El proyecto se llama "ETL API para el análisis de datos de películas y series".
+
+
+Descripcion del Proyecto
+
+La idea detrás de este proyecto es crear una interfaz fácil de usar para acceder a los datos limpios y estructurados que se utilizan para el análisis. Esto se logra mediante el uso de una API construida con el framework FastAPI, que permite realizar consultas a través de solicitudes HTTP.
+
+
+En cuanto al despliegue, utilicé Deta para desplegar mi API en la nube. Deta es una plataforma fácil de usar que permite desplegar aplicaciones de forma rápida y sencilla.
+
+Demo
+
+Bueno pero tomemos un segundo para ver algunas Queries.
+
+Uno de los principales beneficios de esta API es que permite a los analistas de datos obtener información de manera rápida y sencilla. Por ejemplo, con solo ingresar una plataforma, un puntaje y un año, se puede obtener un recuento de cuántas películas o series de esa plataforma tienen un puntaje mayor al especificado en ese año.
+
+Además, la API también cuenta con otras funciones útiles como contar la cantidad de veces que aparece una palabra específica en los títulos de las películas o series de una plataforma específica, obtener el título y puntaje de la película o serie con el segundo puntaje más alto de una plataforma específica, y obtener la película o serie más larga de una plataforma, tipo de duración y año específico.
+
+
+Concluciones
+
+En resumen, el trabajo que realicé en esta API ayuda a los analistas de datos a obtener información valiosa de manera rápida y sencilla, lo que les permite realizar análisis más precisos y eficientes.
+
+Despedida
+
+Quiero agradecer al equipo por confiar en mi para llevar a cabo este proyecto y espero poder continuar colaborando en el futuro.
+Si tienen más duda y quieren profundizar, pueden leer el README y ver el priyecto en mi GitHub (https://github.com/Blas-lab).
+Muchas gracias.
